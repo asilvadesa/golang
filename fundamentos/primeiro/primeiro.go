@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Print("Primeiro ")
-	fmt.Print("Programa!")
+	fmt.Println("Programa!")
 }

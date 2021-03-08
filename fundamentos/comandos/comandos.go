@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Print("Outro Programa em s%!")
+	fmt.Print("Outro Programa em ")
 }
